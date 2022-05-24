@@ -1,0 +1,135 @@
+*, body {
+  padding: 0;
+  margin: 0;
+}
+.myBG {
+  
+  background-color: white;
+  background-size: cover;
+}
+.intro {
+  margin-top: 150px;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+  
+}
+.intro h1 {
+  font-size: 50px;
+}
+.intro img {
+  width: 500px;
+  height: 250px;
+}
+.kartu {
+  margin-top: 150px;
+  margin-bottom:80px;
+}
+.kartu img {
+  width:50px;
+  height:50px;
+  float:left;
+  margin-right: 10px;
+}
+.kartu h4 {
+  float: left;
+  
+}
+.kartu p {
+  position: absolute;
+  left: 75px;
+  margin-top: 5px;
+  font-weight: 600;
+  color: #b8b8b8;
+}
+
+.ceklis {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.ceklis h2 {
+  font-size: 46px;
+
+}
+.ceklis .ceklisBG {
+  width: 400px;
+  height: 355px;
+}
+.ceklis span img {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+.tulisan {
+  margin-top: 70px;
+}
+
+.heading {
+  text-align: center;
+}
+.heading p {
+  color: #4F5665;
+}
+
+
+
+.icon {
+  margin-bottom: 10px;
+}
+.icon span img {
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 15px;
+}
+
+.Network {
+  margin-top: 100px;
+}
+.Network img {
+  margin-top: 100px;
+  width: 80%;
+}
+.Review .paragraf {
+  text-align: center;
+}
+.Review .fotoreview {
+  float: left;
+  margin-right: 10px;
+}
+
+.Review  p {
+  font-size: 12px;
+  margin-top: 10px;
+}
+
+.subscribe {
+  margin-top: 100px;
+  text-align: center;
+  
+}
+
+
+.Footer {
+  bottom: 0;
+}
+
+
+.Footer img {
+  width: 120px;
+}
+
+.Footer span {
+  font-size: 13px;
+}
+.Footer .iconsosmed img {
+  width: 50px;
+  
+}
+
+.Footer ul {
+  list-style: none;
+}
+.Footer ul li {
+  font-size: 13px;
+}
